@@ -1,4 +1,4 @@
-# Code samples and some of my solutions
+# Lab and Assignments, instructions, starte code and some solutions
 
 ## Lab 02-02 week 2
 * instructions [dom manipulation](https://docs.google.com/document/d/11VvaeNgBTzpH6L2-6x9t-b6qU-tX_Arg-y2q_87q4z8/edit?usp=sharing)
