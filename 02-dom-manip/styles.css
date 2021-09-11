@@ -1,0 +1,35 @@
+header,
+footer {
+    text-align: center;
+    font-family: sans-serif;
+    padding: 20px;
+}
+
+header {
+    height: 20%;
+    background-color: yellow;
+}
+
+footer {
+    height: 10%;
+    background-color: bisque;
+}
+
+main {
+    display: flex;
+}
+
+#maintext {
+    background-color: orange;
+    border: 1px solid black;
+    width: 50%;
+}
+
+aside {
+    background-color: lightblue;
+    width: 50%;
+}
+
+#hover {
+    visibility: hidden;
+}
