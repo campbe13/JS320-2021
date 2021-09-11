@@ -10,4 +10,4 @@
 * [my solution](02-dom-manip-input)  coming soon
 ## Assignment 1 week 4
 * instructions [form and dom manipulation](https://docs.google.com/document/d/1J64mJ3m2xb67gnhWHuEU28Id4Qui_dmtvH8JdRCDq70/edit?usp=sharing)
-* [skeleton code](04-assignment1)
+* [skeleton code](04-assignment1) download the zip so you get the directory structure
