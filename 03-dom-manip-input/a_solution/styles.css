@@ -1,0 +1,13 @@
+li {
+    margin-bottom: 10px;
+}
+
+li button {
+    font-size: 8px;
+    margin-left: 20px;
+    color: #666;
+}
+
+input:invalid {
+    border: 3px dotted red;
+}
