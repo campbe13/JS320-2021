@@ -1,5 +1,12 @@
 'use strict'
 
+/**
+ * lab 03 01
+ * add a header
+ * input items, add to a list
+ * input budget number add after the list
+ * @author pcampbell
+ */
 document.addEventListener("DOMContentLoaded", setup);
 let ul, item
 function setup() {
@@ -13,6 +20,15 @@ function setup() {
    // handle to input field
    item = document.querySelector('#item')
 }
+/**
+ * event handler create the list 
+ * create a ul if it doesn't exist
+ * for input items, add to the list
+ * create a <p> if it doesn't exist
+ * add input budget number add after the list
+ * @author pcampbell
+ */
+
 function createList() {
     console.log("createlist")
     let inputV= item.value
