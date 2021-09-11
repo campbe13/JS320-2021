@@ -12,7 +12,8 @@
 ## Lab 03-01 week 3
 * instructions [dom manipulation using input](https://docs.google.com/document/d/1Svposj8k9F03sWpy-vxI0-WV1sT8tGvYsS_0LO6hjZg/edit?usp=sharing)
 * [starter code](03-dom-manip-input)  download the zip
-* [my solution](03-dom-manip-input)  coming soon
+* [my solution](03-dom-manip-input)  
+
 ## [Assignment 1 week 4](04-assignment1)
 ## Lab 04-01 week 4
 * instructions [review, regex, events](https://docs.google.com/document/d/1M9FAfH_fWH0d3HYeCTKR6txGz8t-ydnW77_K4_GwoHk/edit?usp=sharing)
