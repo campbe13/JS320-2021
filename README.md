@@ -23,4 +23,4 @@ Topic:  review of controls, forms and HTML5, data validation with regex, 3 short
 * [starter code](04-review-regex-events)  download the zip
 ## Lab 05  week 5
 * [forms & validation](05-forms-validation)
-* [functions & arrays](05-functions)
+* [functions & arrays](05-functions-arrays)
