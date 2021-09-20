@@ -21,6 +21,6 @@ Topic: Using events and input from the html page add data to the DOM (input data
 Topic:  review of controls, forms and HTML5, data validation with regex, 3 short exercises using events & dom manipulation
 * instructions [review, regex, events](https://docs.google.com/document/d/1M9FAfH_fWH0d3HYeCTKR6txGz8t-ydnW77_K4_GwoHk/edit?usp=sharing)
 * [starter code](04-review-regex-events)  download the zip
-## [Lab 05 week 5]
+## Lab 05  week 5
 * [forms & validation](05-forms-validation)
-* [functions](05-functions)
+* [functions & arrays](05-functions)
