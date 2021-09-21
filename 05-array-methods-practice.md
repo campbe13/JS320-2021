@@ -15,11 +15,13 @@ A little deeper, given this array
 
 JavaScript```let myArray = [ "Ryu", "Ken", "Chun-Li", "Cammy", "Guile", "Sakura", "Sagat", "Juri" ]```
 
-Create a new array for each of the following (there is an array method for some use that but also write your own, for practice)
+Create a new array for each of the following (there is an array method for some of these tasks,  use that but also write your own using other array methods, for practice)  
+*example: myArray.shift() removes the first element of the array, also use maybe map() or for-of loop or other array methods to create a new array without the first element.* 
 1. Remove the last item in the array.
-1. Add two new names to the end of the array.
-1. Create a new array that contains each item in the myArray with its index number after the name inside parentheses, for example Ryu (0). 
-1. Finally, join the array items together in a single string called myString, with a separator of " - ".  
+2. emove the first item in the array.
+3. Add two new names to the end of the array.
+4. Create a new array that contains each item in the myArray with its index number after the name inside parentheses, for example Ryu (0). 
+5. Finally, join the array items together in a single string called myString, with a separator of " - ".  
 
 
 Original by J. Nilakantan 
