@@ -25,4 +25,4 @@ Topic:  review of controls, forms and HTML5, data validation with regex, 3 short
 * [forms & validation](05-forms-validation)
 * [array methods pracice](05-array-methods-practice.md)
 * [functions & arrays](05-functions-arrays)
-* [reducer challenge](05-reducer-challenge)
+* [reducer challenge](reducer-challenge)
