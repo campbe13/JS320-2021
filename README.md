@@ -28,3 +28,4 @@ Topic:  review of controls, forms and HTML5, data validation with regex, 3 short
 * [reducer challenge](05-reducer-challenge)
 ## Lab 06 week 6
 * [pracitce using Map object](06-using-Map)
+## [Project 1 week 6](06-project1)
