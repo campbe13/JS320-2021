@@ -9,5 +9,5 @@ Refer to the [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Refer
 1. Use the forEach method to iterate over the Map and write the first and last name in uppercase (see the [String methods](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String)) on the console.
 1. Create a second Map named dream team, with elements Fozzie Bear, jersey 5, and Kermit Frog, jersey 7  (you choose the rest of the info)
 1. Merge the two Maps into a third.
-1. Iterate through the new merged map and write the name objects to the console with a forEach loop. 
+1. Iterate through the new merged map and write the info in the objects to the console with a forEach loop. 
 1. Iterate through the new merged map loop of your choice (not C style) and add the name and other info of your choice to the DOM in an html structure you prefer (ex list or paras in a div, or section etc.)
