@@ -22,10 +22,14 @@ Topic:  review of controls, forms and HTML5, data validation with regex, 3 short
 * instructions [review, regex, events](https://docs.google.com/document/d/1M9FAfH_fWH0d3HYeCTKR6txGz8t-ydnW77_K4_GwoHk/edit?usp=sharing)
 * [starter code](04-review-regex-events)  download the zip
 ## Lab 05  week 5
+Topic: Arrays + higher order functions
 * [forms & validation](05-forms-validation)
 * [array methods pracice](05-array-methods-practice.md)
 * [functions & arrays](05-functions-arrays)
 * [reducer challenge](05-reducer-challenge)
 ## Lab 06 week 6
+Topic: Using Map object
 * [pracitce using Map object](06-using-Map)
+<!--
 ## [Project 1 week 6](06-project1)
+-->
