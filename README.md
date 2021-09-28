@@ -33,4 +33,5 @@ Topic: Using Map object and JSON
 * [pracitce using JSON & Map](06-JSON-Map)
 * [pracitce using JSON (has webstorage code) ](06-JSON-modify-code)
 * [practice webstorage](06-webstorage-save-colour)
+* [practice webstorage session vs local](06-webstorage-session-local)
 ## [Project 1 week 6](06-project1)
