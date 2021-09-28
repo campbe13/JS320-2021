@@ -27,7 +27,7 @@ Part 1 - Edit the simple HTML that you have been provided in the [starter code](
 * Try submitting your form — it should refuse to submit until the above constraints are followed.  
 
 ## for this lab
-Add a function that will put add the input information into a new Map object, every time  :
+Add a function that will add the input information into a new Map object, every time  :
 * key: name
 * value: JSON object containing email and phone number, ex ` { email: fozzie@muppets.com, phone: 999-514-5145 }
 Log the Map each time you add to it, to see what it looks like.
