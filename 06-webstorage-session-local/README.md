@@ -4,11 +4,8 @@
 
 Take a copy of the html & js code from [starter](starter/)
 
-The starter code is set up to save the input from the form to session storage.
+The starter code is set up to save the input from the form to session storage.  _Run it, then reload it._
 
-Run it, then reload it.   
-Modify the code to use session storage.
-Run it, then reload it.   
-What is the difference between session & local web storage?
+Modify the code to use session storage.  _Run it, then reload it._
 
-
+What is the difference between session & local web storage?  Can you think of occasions you would want to use one or the other?
