@@ -28,9 +28,9 @@ Topic: Arrays + higher order functions
 * [functions & arrays](05-functions-arrays)
 * [reducer challenge](05-reducer-challenge)
 ## Lab 06 week 6
-Topic: Using Map object
+Topic: Using Map object and JSON
 * [pracitce using Map object](06-using-Map)
 * [pracitce using JSON & Map](06-JSON-Map)
-<!--
+* [pracitce using JSON (has webstorage code) ](06-JSON-modify-code)
+* [practice webstorage](06-webstorage-save-colour)
 ## [Project 1 week 6](06-project1)
--->
