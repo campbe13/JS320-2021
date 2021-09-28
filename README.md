@@ -30,6 +30,7 @@ Topic: Arrays + higher order functions
 ## Lab 06 week 6
 Topic: Using Map object
 * [pracitce using Map object](06-using-Map)
+* [pracitce using JSON & Map](06-JSON-Map)
 <!--
 ## [Project 1 week 6](06-project1)
 -->
