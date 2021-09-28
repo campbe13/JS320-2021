@@ -1,5 +1,5 @@
 # Lab and Assignments, instructions, starte code and some solutions
-
+## [Lectures](https://drive.google.com/drive/folders/1er1KiJdRnLZ_2GJj71CVjfboOc_KSQMo?usp=sharing)   if missing, they are embedded in moodle
 ## Lab 02-02 week 2
 Topic: Using events on html elements, adding static data to the DOM (adding own html)
 * instructions [dom manipulation](https://docs.google.com/document/d/11VvaeNgBTzpH6L2-6x9t-b6qU-tX_Arg-y2q_87q4z8/edit?usp=sharing)
