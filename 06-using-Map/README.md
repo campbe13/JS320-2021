@@ -1,3 +1,5 @@
+# Using the Map object
+
 This exercise has a few short exercises. Use your browser’s console to write the statements/expressions. I suggest you put the code into a .js file & use dummy html to run it. Try to use arrow functions where/if appropriate.
 
 > Note the [Map object](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map) is not the same as the [Array.map](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map) method
