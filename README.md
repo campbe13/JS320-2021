@@ -24,14 +24,15 @@ Topic:  review of controls, forms and HTML5, data validation with regex, 3 short
 ## Lab 05  week 5
 Topic: Arrays + higher order functions
 * [forms & validation](05-forms-validation)
-* [array methods pracice](05-array-methods-practice.md)
+* [array methods practice](05-array-methods-practice.md)
 * [functions & arrays](05-functions-arrays)
 * [reducer challenge](05-reducer-challenge)
 ## Lab 06 week 6
-Topic: Using Map object and JSON
-* [pracitce using Map object](06-using-Map)
+Topic: Using Map object and JSON  
+* [practice using Map object](06-using-Map)
 * [pracitce using JSON & Map](06-JSON-Map)
 * [pracitce using JSON (has webstorage code) ](06-JSON-modify-code)
+Topic: using webstorage
 * [practice webstorage](06-webstorage-save-colour)
 * [practice webstorage session vs local](06-webstorage-session-local)
 ## [Project 1 week 6](06-project1)
