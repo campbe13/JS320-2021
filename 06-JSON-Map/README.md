@@ -1,6 +1,6 @@
 # Using JSON  & Map
 
-Given the following JSON Array, and this [skeletal code](skel) use it to add the content to the DOM as a list or divs & paras or... your choice 
+Given the following array of JSON objects, and this [skeletal code](skel) use it to add the content to the DOM as a list or divs & paras or... your choice 
 add an header element "Software Engineers" 
 ```JavaScript
 let data =   [
