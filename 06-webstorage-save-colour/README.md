@@ -8,3 +8,4 @@ Add an event listener to save the current colour in local storage
 
 Add an event listener to read the colour in local storage and set the background to that colour
 
+Add code to set the colour to the saved colour when the page is loaded (hint: in setup)
