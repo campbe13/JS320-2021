@@ -10,13 +10,13 @@ Your Task, use Firefox:
 
 * Using the starter code (session storage)
     1. _Run it, then reload it._
-    2. Close the browser tab, load the site 
-    3. Close the browser completely, open it again & load the site
+    2. Close the browser tab, load the site/page
+    3. Close the browser completely, open it again & load the site/page
     4. have a look at the [Storage Inspector](https://developer.mozilla.org/en-US/docs/Tools/Storage_Inspector)
 * Modify the code to use local storage.  
   1. _Run it, then reload it._
   2. Close the browser tab, load the site 
-  3. Close the browser completely, open it again & load the site
+  3. Close the browser completely, open it again & load the site/page
   5. have a look at the [Storage Inspector](https://developer.mozilla.org/en-US/docs/Tools/Storage_Inspector)
   6. load your code in another browser
 
