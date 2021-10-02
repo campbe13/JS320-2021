@@ -1,6 +1,8 @@
 ### Project 1 
 due in 2 weeks, October 12, 2021, see moodle for submission
 * [instructions](https://docs.google.com/document/d/17K_KvJIVcshm2IA4eIWG2lnMHmtewJ43/edit?usp=sharing&ouid=101035714441841023133&rtpof=true&sd=true)
+* See [Korra](https://korra.dawsoncollege.qc.ca/~tricia/) particularly web storage & JSON for code examples
+* See slide decks for code examples
 
 Misc links
 * [youtube concept example](https://www.youtube.com/watch?v=Y9Bm5ZFXO3s)
