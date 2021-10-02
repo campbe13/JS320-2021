@@ -12,5 +12,6 @@ Refer to the [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Refer
     * optional challenge:  1st letter upper case, other letters lowercase for both names
 3. Create a second Map named dream team, with elements Fozzie Bear, jersey 5, and Kermit Frog, jersey 7  (you choose the rest of the info)
 4. Merge the two Maps into a third.
-5. Iterate through the new merged map and write the info in the objects to the console with a forEach loop. 
-6. Iterate through the new merged map loop of your choice (not C style) and add the name and other info of your choice to the DOM in an html structure you prefer (ex list or paras in a div, or section etc.)
+    * optional challenge:  from the merged map, create another with jersey as key and last name as value (ex for printing new team Jersies)
+6. Iterate through the new merged map and write the info in the objects to the console with a forEach loop. 
+7. Iterate through the new merged map loop of your choice (not C style) and add the name and other info of your choice to the DOM in an html structure you prefer (ex list or paras in a div, or section etc.)
