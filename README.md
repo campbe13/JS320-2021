@@ -30,8 +30,8 @@ Topic: Arrays + higher order functions
 ## Lab 06 week 6
 Topic: Using Map object and JSON  
 * [practice using Map object](06-using-Map)
-* [pracitce using JSON & Map](06-JSON-Map)
-* [pracitce using JSON (has webstorage code) ](06-JSON-modify-code)
+* [practice using JSON & Map](06-JSON-Map)
+* [practice using JSON (has webstorage code) ](06-JSON-modify-code)
 
 Topic: using webstorage
 * [practice webstorage](06-webstorage-save-colour)

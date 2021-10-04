@@ -15,3 +15,7 @@ Refer to the [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Refer
     * optional challenge:  from the merged map, create another with jersey as key and last name as value (ex for printing new team Jersies)
 6. Iterate through the new merged map and write the info in the objects to the console with a forEach loop. 
 7. Iterate through the new merged map loop of your choice (not C style) and add the name and other info of your choice to the DOM in an html structure you prefer (ex list or paras in a div, or section etc.)
+
+
+Do not look at this until you have attempted it yourself
+[teacher's solution](teacker-solution)
