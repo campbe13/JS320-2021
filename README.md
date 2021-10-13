@@ -38,7 +38,8 @@ Topic: using webstorage
 * [practice webstorage session vs local](06-webstorage-session-local)
 ## [Project 1 week 6](06-project1)
 ## Lab 8 Week 8 Deployment & CI/CD
-### Part 1 web app deployment using file transfer
+Topic:  Deployment & CI/CD
+#### Part 1 web app deployment using file transfer 
 * [instructions](https://docs.google.com/document/d/1LPolSjhEhRri53bvZcTIEw98YJ8qbQIqZhDwA9vNOLI/edit?usp=sharing)
 ### Part 2 web app deployment using gitlab ci
-* [instructions](https://docs.google.com/document/d/1LPolSjhEhRri53bvZcTIEw98YJ8qbQIqZhDwA9vNOLI/edit?usp=sharing)
+* [instructions](https://docs.google.com/document/d/1QpEPWHF3r3fBblk9_bXlP4rSk_MuWtrEYFZ08S1RJIk/edit?usp=sharing)
