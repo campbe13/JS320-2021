@@ -29,7 +29,14 @@ You need to display a time as before, but in this example, you need to add
 1. A "Reset" button to reset the time back to 0.
 1.  The time display to show the number of seconds elapsed, rather than the actual time.
 
-Here's a few hints for you:
+## do it incrementally
+1.  Change time display to show the number of seconds elapsed, rather than the actual time. write the code to display the counter as a string hh:mm:ss (see [String padStart](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/padStart) for leading 0s)
+When that is working 
+1.  implement the start button, maybe the stop button too
+When start is working & stop
+1.  continue with the rest
+
+## Here's a few hints for you:
 
 You can structure and style the button markup however you like; just make sure you use semantic HTML, with hooks (id, name etc.) to allow you to grab the button references using JavaScript.
 
