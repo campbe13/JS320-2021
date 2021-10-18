@@ -1,6 +1,8 @@
 # Creating your own stopwatch!
 This is originally from MDN
 
+You may want to watch this video first [from Jaya Nilakantan](https://web.microsoftstream.com/video/cf717bb3-45df-4204-b207-3375115c67c2)
+
 Take a copy of the setInterval clock [setInterval-clock.html](setInterval-clock.html) example, and modify it to 
 1.  use an external js file, not inline script
 2.  create your own simple stopwatch.
