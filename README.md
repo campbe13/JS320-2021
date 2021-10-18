@@ -42,6 +42,9 @@ Topic:  Deployment & CI/CD
 #### Part 1 web app deployment using file transfer 
 * [instructions](https://docs.google.com/document/d/1LPolSjhEhRri53bvZcTIEw98YJ8qbQIqZhDwA9vNOLI/edit?usp=sharing)
 * [Submit your URL](https://forms.gle/y1pQpv85RWe9D4S86)
-#### Part 2 web app deployment using gitlab ci
+#### Part 2 web app deployment using gitlab ci  <<<<< STILL WAITING FOR GITLAB EDU LICENSES
 * [instructions](https://docs.google.com/document/d/1QpEPWHF3r3fBblk9_bXlP4rSk_MuWtrEYFZ08S1RJIk/edit?usp=sharing)
 * [Submit your URL](https://forms.gle/y1pQpv85RWe9D4S86)
+## Lab 09 Week 9 
+Topic: Cooperative asynchronous JavaScript: Timeouts and intervals
+* [instructions](09-coop-async)
