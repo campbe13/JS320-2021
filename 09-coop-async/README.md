@@ -4,6 +4,17 @@ This is originally from MDN
 Take a copy of the setInterval clock [setInterval-clock.html](setInterval-clock.html) example, and modify it to 
 1.  use an external js file, not inline script
 2.  create your own simple stopwatch.
+<!--
+How will it work
+* start button 
+    * every 1000 milliseconds, increment a counter by 1 second
+* setInterval callback
+    * write the code to display the counter as a string hh:mm:ss (see [String padStart](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/padStart) for leading 0s)
+* what about pause and reset? 
+    * both clearInterval
+    * reset also clears the text and resets the counter
+-->
+![image](https://user-images.githubusercontent.com/1751207/137652437-f951873c-2ffc-4f96-87a4-1e1cb6a0a238.png)
 
 [Reference for this @ MDN](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Timeouts_and_intervals)
 
