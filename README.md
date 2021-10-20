@@ -47,4 +47,12 @@ Topic:  Deployment & CI/CD
 * [Submit your URL](https://forms.gle/y1pQpv85RWe9D4S86)
 ## Lab 09 Week 9 
 Topic: Cooperative asynchronous JavaScript: Timeouts and intervals
-* [instructions](09-coop-async)
+* Monday & Tuesday [stop watch instructions](09-coop-async)
+* Wednesday & Thursday   
+  * I need to give you permissions on a group in Gitlab in order to allow you to use shared runners for your CI please fill out [the form](https://forms.gle/C8r2fKE6VPteikRV8)
+  * continue with the stopwatch if it's incomplete
+  * review past labs & test #1, make sure you understand what you missed
+  * try out the examples see Promise objecs
+Topic: Promise objects
+  * try out the examples in [promises.js](09-coop-async/promises.js) and on [korra](https://korra.dawsoncollege.qc.ca/~tricia/js/09-promises/)
+
