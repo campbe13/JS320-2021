@@ -8,7 +8,7 @@ More detail by Jaya Nilakantan [fetch with data, GET & POST](https://web.microso
 We have seen [reqres.in](https://reqres.in/) this is a very useful site. We can use it to test all of the RESTful communication that we can do
 without the need to use our own website + api. it gives real responses with Fake data so we can test live
 
-For this lab you are going to create a simple form that takes as input a number, use HTML5 to ensure it is a number.
+For this lab you are going to create a simple form that takes as input a number, use HTML5 to ensure it is a number, range 1-6
 You will have a button to submit the form. The number will be used to construct a URL, use a fetch then read the data from the from the api. 
 ### Here are a few hints for you:
 
@@ -32,14 +32,12 @@ You will have a button to submit the form. The number will be used to construct 
       }
   }
   ```
-  click on ![image](https://user-images.githubusercontent.com/1751207/138353781-310a87c4-87bc-4084-91f2-76bb5c2e57f8.png) it will make the request in the browser and give you the above results
-
-* Click on the Request, it will make the request to the website in a new tab, you will see the JSON data returned The example shown is for id 2, so you need to construct your url using the number input from the form.
-* Using your url construct a fetch with the necessary .then() and .catch() blocks
+* If you click on the *list resource* you will see that there are only 1-6 ids you can use in your url
+* Click on the Request, ![Request](https://user-images.githubusercontent.com/1751207/138353781-310a87c4-87bc-4084-91f2-76bb5c2e57f8.png) it will make the request to the website in a new tab, you will see the JSON data returned The example shown is for id 2, so you need to construct your URL using the number input from the form.
+* Using your URL construct a fetch with the necessary .then() and .catch() blocks
 * For the fetch throw an error if the response is not response.ok & log the problem
 * If the response is response.ok
      * use the JSON response name and year to add to the html page (you can create a list or add paragraphs or.. as you wish.)
-     * use the JSON response color to change the text colour
-* If you click on the *list resource* you will see that there are only 1-6 ids you can use in your url
-
+     * use the JSON response color to change the text colour (not black) 
+     
 Refer to my examples on [korra](https://korra.https://korra.dawsoncollege.qc.ca/~tricia/website-js-2020/)  and here on github
