@@ -54,9 +54,9 @@ Topic: Cooperative asynchronous JavaScript: Timeouts and intervals
   * review past labs & test #1, make sure you understand what you missed
   * try out the examples see Promise objects
   * optional take the example and modify it to put everything from the json object onto the html, your choice UL & LI, paragraphs, divs etc.
-     * take this example [read json](09-coop-async/read-json)
+     * take this example [read json](09-promises/read-json)
      * the code [running on korra](https://korra.dawsoncollege.qc.ca/~tricia/js/09-promises/read-json/)
  
 Topic: Promise objects
-  * try out the examples in [promises.js](09-coop-async/promises.js) and on [korra](https://korra.dawsoncollege.qc.ca/~tricia/js/09-promises/)
+  * try out the examples in [promises.js](09-promises/promises.js) and on [korra](https://korra.dawsoncollege.qc.ca/~tricia/js/09-promises/)
 
