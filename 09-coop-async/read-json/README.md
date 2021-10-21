@@ -16,6 +16,7 @@ Then the below changes  ( syntax .then(resolvecallback, rejectcallback) )
 3.  use filedoesntexist.json  file does not exist, but http gives a respone so the result is resolve, 
     meaning the server actually responded so it's not an error,
     so we check the response code, the result is not what we want so we throw an error & it jumps to the catch
+    
 ###JavaScript
 ```JavaScript
 function setup() {
