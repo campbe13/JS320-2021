@@ -40,4 +40,4 @@ You will have a button to submit the form. The number will be used to construct 
      * use the JSON response name and year to add to the html page (you can create a list or add paragraphs or.. as you wish.)
      * use the JSON response color to change the text colour (not black) 
      
-Refer to my examples on [korra](https://korra.https://korra.dawsoncollege.qc.ca/~tricia/website-js-2020/)  and here on github
+Refer to my examples on [korra](https://korra.dawsoncollege.qc.ca/~tricia/)  and here on github
