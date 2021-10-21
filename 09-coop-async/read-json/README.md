@@ -1,15 +1,17 @@
 # read a json file from disk using fetch & promises
+## First 
 Try running this code,  it will work and read a json file, have a look in DevTools
 
 This is using Promises & .then() .catch()
 * [Promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises)
 * [.then()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/then)
 
-Then the below changes  ( syntax .then(resolvecallback, rejectcallback) )
-Then the below changes  ( syntax .then(resolvecallback, rejectcallback) )
-1.  sample.json  file exists, http gives a response so the result is resove,
+## Second
+Try the below changes  ( syntax .then(resolvecallback, rejectcallback) )
+1.  sample.json  file exists, http gives a response so the result is resolve,  
     meaning the server actually responded so it's not an error,
     we check the response code 200 ok is good,  we use the data
+    This is what is running on [korra read json](https://korra.dawsoncollege.qc.ca/~tricia/js/09-promises/read-json/)
 2.  use http://blah.com/sample.json   host does not exist so this is an http error, 
     meaning no server responded so it IS an error, 
     result reject, no reject defined so jump to catch
