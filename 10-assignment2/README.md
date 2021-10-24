@@ -1,6 +1,7 @@
 ## Using the NASA api
 ### Instructions
-[Assignment 2 Instructions](https://docs.google.com/document/d/1-3qda6HvNfoIS8Tws1nuniwKClWBz0cQClqgk5IM6To/edit?usp=sharing)
+* [Assignment 2 Instructions](https://docs.google.com/document/d/1-3qda6HvNfoIS8Tws1nuniwKClWBz0cQClqgk5IM6To/edit?usp=sharing)
+* [youtube demo of teacher's proof of concept](https://youtu.be/YYjZ4kFJ3SI)  you can design it better
 ### References
 
 * [NASA api](https://api.nasa.gov/) click on APOD, astronomy picture of the day  (don't use the gitlab doc it's over complicated, ask the teacher if you get stuck.)
