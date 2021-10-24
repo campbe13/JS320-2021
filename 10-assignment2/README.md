@@ -1,6 +1,9 @@
 ## Using the NASA api
+### Instructions
+[Assignment 2 Instructions](https://docs.google.com/document/d/1-3qda6HvNfoIS8Tws1nuniwKClWBz0cQClqgk5IM6To/edit?usp=sharing)
+### References
 
-* [NASA api](https://api.nasa.gov/) click on APOD, astronomy picture of the day
+* [NASA api](https://api.nasa.gov/) click on APOD, astronomy picture of the day  (don't use the gitlab doc it's over complicated, ask the teacher if you get stuck.)
 * [sign up for a key](https://api.nasa.gov/#signUp) click on APOD, astronomy picture of the day
 
 ### Example result from the api
@@ -17,3 +20,5 @@
   }
 ]
 ```
+### Submit gitlab URL, korra URL,  & partnership info
+[Submit to form](https://forms.gle/V1mSQPnydPK88ERk9)
