@@ -18,7 +18,7 @@ For this lab you are going to
 ### Here are a few hints for you:
 * First you must understand the api & the results you get from it Look at the [reqres.in api](https://reqres.in/) scroll down to ![ Give it a try ](https://user-images.githubusercontent.com/1751207/138351098-f92abf75-cd85-4a1d-9af7-0978afb14e4f.png)
   click on  single resource, it shows you the request format string and sample JSON response <br>
-  Request ```/api/unknown/2``` <br>
+  Request ```/api/unknown/2``` Note `2` is the id, you will get input from your form and use that here<br>
   If it returns 200 ok <br>
   Results in  <br>
   ```JavaScript
