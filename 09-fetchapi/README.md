@@ -7,8 +7,8 @@ More detail by Jaya Nilakantan [fetch with data, GET & POST](https://web.microso
 
 ## Use form input to retrieve from an api
 
-We have seen [reqres.in](https://reqres.in/) this is a very useful site. We can use it to test all of the RESTful communication that we can do
-without the need to use our own website + api. it gives real responses with Fake data so we can test live
+[reqres.in](https://reqres.in/) is a very useful site. We can use it to test all of the RESTful communication that we can do
+without the need to use our own website + api. it gives real responses with fake data so we can test live
 
 For this lab you are going to 
 1. create an index.html In the fist section put simple form that takes as input a number, use HTML5 to ensure it is a number, range 1-6. In the second section put a `<ul>` or some other element  for adding data.
