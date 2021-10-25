@@ -38,7 +38,8 @@ For this lab you are going to
   ```
 * you may use my [skeleton files](../skel) to start with
 * If you click on the *list resource* you will see that there are only 1-6 ids you can use in your url
-* Click on the Request, ![Request](https://user-images.githubusercontent.com/1751207/138353781-310a87c4-87bc-4084-91f2-76bb5c2e57f8.png)  it will make the request to the website in a new tab, [https://reqres.in/api/users?page=2](https://reqres.in/api/users?page=2) you will see the JSON data returned The example shown above is for id 2, so you need to construct your URL using the number input from the form.
+* Click on the Request, ![Request](https://user-images.githubusercontent.com/1751207/138765343-725f250f-c430-49d8-89b8-fb3c2cf1012e.png)
+  it will make the request to the website in a new tab, [https://reqres.in/api/unknown/2](https://reqres.in/api/unknown/2) you will see the JSON data returned The example shown above is for id 2, so you need to construct your URL using the number input from the form.
 * Using your URL construct a fetch with the necessary .then() and .catch() blocks
 * For the fetch throw an error if the response is not response.ok, put an error message on the html  & log the problem
 * If the response is response.ok
