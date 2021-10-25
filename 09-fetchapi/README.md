@@ -11,10 +11,10 @@ We have seen [reqres.in](https://reqres.in/) this is a very useful site. We can 
 without the need to use our own website + api. it gives real responses with Fake data so we can test live
 
 For this lab you are going to 
-1. create an index.html In the fist section put simple form that takes as input a number, use HTML5 to ensure it is a number, range 1-6. In the second section put a <ul> or some other element  for adding data.
-2. add a button and attach an event listener on submit (button or form) 
-3. use the number will be used to construct a URL, use a fetch then read the data from the from the api. 
-4. using the data from the api add it to the 2nd section (your design decision)
+1. create an index.html In the fist section put simple form that takes as input a number, use HTML5 to ensure it is a number, range 1-6. In the second section put a `<ul>` or some other element  for adding data.
+2. in the js file add a button and attach an event listener on submit to the form (submit is required to ensure the HTML5 validation)
+3. use the number input to construct a URL, use a fetch then read the data from the from the api. 
+4. using the data from the api add the response data or  an error messag  to the 2nd section (your design decision)
 ### Here are a few hints for you:
 * First you must understand the api & the results you get from it Look at the [reqres.in api](https://reqres.in/) scroll down to ![ Give it a try ](https://user-images.githubusercontent.com/1751207/138351098-f92abf75-cd85-4a1d-9af7-0978afb14e4f.png)
   click on  single resource, it shows you the request format string and sample JSON response <br>
@@ -37,9 +37,9 @@ For this lab you are going to
   }
   ```
 * If you click on the *list resource* you will see that there are only 1-6 ids you can use in your url
-* Click on the Request, ![Request](https://user-images.githubusercontent.com/1751207/138353781-310a87c4-87bc-4084-91f2-76bb5c2e57f8.png)  it will make the request to the website in a new tab, [https://reqres.in/api/users?page=2](https://reqres.in/api/users?page=2) you will see the JSON data returned The example shown is for id 2, so you need to construct your URL using the number input from the form.
+* Click on the Request, ![Request](https://user-images.githubusercontent.com/1751207/138353781-310a87c4-87bc-4084-91f2-76bb5c2e57f8.png)  it will make the request to the website in a new tab, [https://reqres.in/api/users?page=2](https://reqres.in/api/users?page=2) you will see the JSON data returned The example shown above is for id 2, so you need to construct your URL using the number input from the form.
 * Using your URL construct a fetch with the necessary .then() and .catch() blocks
-* For the fetch throw an error if the response is not response.ok & log the problem
+* For the fetch throw an error if the response is not response.ok, put an error message on the html  & log the problem
 * If the response is response.ok
      * use the JSON response `name` and `year` to add to the html page (you can create a list or add paragraphs or.. as you wish.)
      * use the JSON response `color` to change the text colour 
