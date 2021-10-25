@@ -60,6 +60,7 @@ Topic: Cooperative asynchronous JavaScript: Timeouts and intervals
 Topic: Promise objects
   * try out the examples in [promises.js](09-promises/promises.js) (the same file is on [korra](https://korra.dawsoncollege.qc.ca/~tricia/js/09-promises/))
 ## Lab 10 Week 10
+* more examples in [promises2.js](09-promises/promises2.js)
 Topic: Using the Fetch API 
   * Use reqres.in to make simple requests & populate a page [instructions](09-fetchapi)
 <!--
