@@ -4,9 +4,8 @@
 * [youtube demo of teacher's proof of concept](https://youtu.be/YYjZ4kFJ3SI)  you can design it better
 ### References
 
-* [NASA api](https://api.nasa.gov/) click on Browse APIs then APOD, astronomy picture of the day  (don't use the gitlab doc it's over complicated, ask the teacher if you get stuck.)
-* [sign up for a key](https://api.nasa.gov/#signUp) click on APOD, astronomy picture of the day
-* 
+* Click on `Browse APIs` then `APOD`, astronomy picture of the day here [NASA api](https://api.nasa.gov/)  (don't use the gitlab doc it's over complicated, ask the teacher if you get stuck.)
+* [sign up for a key](https://api.nasa.gov/#signUp) click on APOD, astronomy picture of the day 
 
 ### Example result from the api
 ```JavaScript
