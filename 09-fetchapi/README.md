@@ -47,3 +47,5 @@ For this lab you are going to
      * use the JSON response `color` to change the text colour 
      
 Refer to my examples on [korra](https://korra.dawsoncollege.qc.ca/~tricia/)  and here on github
+
+[teacher's solution](teacher-solution) Try it yourself first
