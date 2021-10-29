@@ -2,11 +2,10 @@
 ### Instructions
 * [Assignment 2 Instructions](https://docs.google.com/document/d/1-3qda6HvNfoIS8Tws1nuniwKClWBz0cQClqgk5IM6To/edit?usp=sharing)
 * [youtube demo of teacher's proof of concept](https://youtu.be/YYjZ4kFJ3SI)  you can design it better
+* Example using an api + image url [on korra](https://korra.dawsoncollege.qc.ca/~tricia/js/09-fetchapi/get-reqres-image/)
 ### References
-
 * Click on `Browse APIs` then `APOD`, astronomy picture of the day here [NASA api](https://api.nasa.gov/)  (don't use the gitlab doc it's over complicated, ask the teacher if you get stuck.)
 * [sign up for a key](https://api.nasa.gov/#signUp) click on APOD, astronomy picture of the day 
-
 ### Example result from the api
 ```JavaScript
 [
