@@ -1,5 +1,7 @@
 # XHR XmlHTTPResponse (the old way, replaced by Fetch API)
 
+Exercise by J. Nilakantan 2020 
+
 ## Problem CORS error on load 2021
 
 Probaby due to `n 06/11/2021, we decided to shut down the website` 
