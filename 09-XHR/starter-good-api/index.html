@@ -1,0 +1,42 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta content="text/html" http-equiv="Content-Type">
+    <meta content="utf-8" http-equiv="encoding">
+    <title>JavaScript HTTP GET request with parameters </title>
+    <script defer src=site.js></script>
+    <style>
+    input:invalid {
+        background-color:deeppink ;
+    }
+    </style>
+</head>
+
+<body>
+    <header>
+        <h2>Look at the source, this is an example of using HTTP Get with params</h2>
+	<h3>  This is the one example you will see using XmlHTTPRequest, all others & new code should use the Fetch API</h3>
+    </header>
+    <main>
+        <form>
+            <fieldset id="latlong">
+                <legend>Where do you want to know about sunset/sunrise</legend>
+                <label for="name">Latitude</label>
+                <input type="number" step=".00001" id="lat"  name="lat" required value="45.5017"/>
+                <br>
+                <label for="age">Longitude</label>
+                <input type="number"  step=".00001" id="long" name="long" required value="73.5673">
+            </fieldset>
+            <!--HTML5 validation only triggered on the submit event -->
+            <input type="submit" id="submit" value="Get the times"></input>
+            </form>
+    </main>
+    <footer>
+        Note: times are UTC, default value is Montreal which is UTC-5 so add 5.
+    </footer>
+</body>
+
+</html>
