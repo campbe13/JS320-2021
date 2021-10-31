@@ -68,7 +68,9 @@ Topic: Using the Fetch API
 Topic: Using the Fetch API with HTTP GET & POST
 ## [Assignment 2 week 10](10-assignment2)
 ## Lab 11 Week 11
-### Part 1 [XHR to Fetch API](09-xhr)
+Topic:  XmlHTTPRequest
+Topic: more on functions, use of `this`
+### Part 1 [XHR to Fetch API](09-XHR)
 ### Part 2 Complete part 2 from Week 8
 If you did not complete part 1 go back to week 8
 
