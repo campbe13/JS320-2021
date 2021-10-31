@@ -67,14 +67,14 @@ Topic: Using the Fetch API
 
 Topic: Using the Fetch API with HTTP GET & POST
 ## [Assignment 2 week 10](10-assignment2)
-<!--
 ## Lab 11 Week 11
+### [XHR to Fetch API](09-xhr)
 ### Complete part 2 from Week 8
 If you did not complete part 1 go back to week 8
 
-I had to set up an education organization in order for you to use the CI free runners.   You are now able to do this lab, I have
-changed the instructions because you have to use a Group.   If you did not give me your gitlab userid, as requested you will have to contact me to set up permissions for you. 
+I had to set up an education organization in order for you to use the CI free runners.   You are now able to do this lab, (provided you gave me your gitlab id in week9. 
+I have changed the instructions because you have to use a Group, DawsonStudents to which I added your gitlab id.   If I don't have it you will have to contact me to set up permissions for you. 
 #### Part 2 web app deployment using gitlab ci  <<<<< FIXED NOW HAVE GITLAB EDU LICENSES
 * [instructions](https://docs.google.com/document/d/1X8bBhUSgR_vglxJknHmm8bB4Qcik0j-_SzhEOC7w4yI/edit?usp=sharing)
 * [Submit your URL](https://forms.gle/y1pQpv85RWe9D4S86)
--->
+### Work on Assignment 2
