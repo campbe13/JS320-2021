@@ -20,7 +20,33 @@ function Person(first, last, age, gender, interests) {
 }
 ```
 Modify it such that the bio method uses an appropriate pronoun based on the gender (e.g., he, she, or they), and allows 0 to many interests.
+## Part 2 Bicycle class inherits from Vehicle
 
-## Part 2 MDN Test your skills
+Create a `Bicycle` subclass that extends the `Vehicle` class. The `Bicycle` subclass should override Vehicle's constructor function by changing the default values for `wheels` from `4` to `2` and `horn` from `'beep beep'` to `'honk honk'`.
+
+**The Start Code:**
+```javascript
+class Vehicle {
+	constructor(color = 'blue', wheels = 4, horn = 'beep beep') {
+		this.color = color;
+		this.wheels = wheels;
+		this.horn = horn;
+	}
+
+	honkHorn() {
+		console.log(this.horn);
+	}
+}
+
+// your code goes here
+
+/* tests
+const myVehicle = new Vehicle();
+myVehicle.honkHorn(); // beep beep
+const myBike = new Bicycle();
+myBike.honkHorn(); // honk honk
+*/
+```
+## Part 3 MDN Test your skills
 Try the MDN Test Your Skills exercise at:
 * [MDN OOJS Test your skills](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Test_your_skills:_Object-oriented_JavaScript)
