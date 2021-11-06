@@ -80,3 +80,6 @@ I have changed the instructions because you have to use a Gitlab Group, DawsonSt
 * [instructions](https://docs.google.com/document/d/1X8bBhUSgR_vglxJknHmm8bB4Qcik0j-_SzhEOC7w4yI/edit?usp=sharing)
 * [Submit your URL](https://forms.gle/y1pQpv85RWe9D4S86)
 ### Part 3 Work on Assignment 2
+## Lab 12 Week 12
+Topic: Prototypes and Objects in JavaScript
+* [instructions](12-OOJS) using `class` keyword syntax
