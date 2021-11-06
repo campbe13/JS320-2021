@@ -12,7 +12,8 @@ function Person(first, last, age, gender, interests) {
   this.gender = gender;
   this.interests = interests;
   this.bio = function() {
-    alert(this.name.first + ' ' + this.name.last + ' is ' + this.age + ' years old. He likes ' + this.interests[0] + ' and ' + this.interests[1] + '.');
+    alert(this.name.first + ' ' + this.name.last + ' is ' + this.age + 
+    	' years old. He likes ' + this.interests[0] + ' and ' + this.interests[1] + '.');
   };
   this.greeting = function() {
     alert('Hi! I\'m ' + this.name.first + '.');
@@ -24,28 +25,24 @@ Modify it such that the bio method uses an appropriate pronoun based on the gend
 
 Create a `Bicycle` subclass that extends the `Vehicle` class. The `Bicycle` subclass should override Vehicle's constructor function by changing the default values for `wheels` from `4` to `2` and `horn` from `'beep beep'` to `'honk honk'`.
 
-**The Start Code:**
+**starter code**
 ```javascript
 class Vehicle {
-	constructor(color = 'blue', wheels = 4, horn = 'beep beep') {
-		this.color = color;
-		this.wheels = wheels;
-		this.horn = horn;
-	}
-
-	honkHorn() {
-		console.log(this.horn);
-	}
+constructor(color = 'blue', wheels = 4, horn = 'beep beep') {
+	this.color = color;
+	this.wheels = wheels;
+	this.horn = horn;
 }
 
-// your code goes here
-
-/* tests
+honkHorn() { console.log(this.horn); }
+}
+```
+**tests**
+```javascript
 const myVehicle = new Vehicle();
 myVehicle.honkHorn(); // beep beep
 const myBike = new Bicycle();
 myBike.honkHorn(); // honk honk
-*/
 ```
 ## Part 3 MDN Test your skills
 Try the MDN Test Your Skills exercise at:
