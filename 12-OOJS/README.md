@@ -53,15 +53,12 @@ Try the MDN Test Your Skills exercise at:
 "use strict";
 /**
  * constructor function for Tree object 
- * name: tree name
- * tallest:  tallest the tree can become
- * lifespan:  average lifespan for the tree
- * deciduous or coniferous
- * 
- * @param {string} name 
- * @param {number} tallest 
- * @param {number} lifespan 
- * @param {string} decidconif 
+ *
+ * @param {string} name: tree name
+ * @param {number} tallest:  tallest the tree can become
+ * @param {number} lifespan:  average lifespan for the tree
+ * @param {string} decidconif: deciduous or coniferous 
+ * @param {boolean} metric: true if metric system used
  */
 function Tree(name, tallest, lifespan, decidconif, metric){
 
