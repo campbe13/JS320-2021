@@ -44,13 +44,9 @@ myVehicle.honkHorn(); // beep beep
 const myBike = new Bicycle();
 myBike.honkHorn(); // honk honk
 ```
-## Part 4 MDN Test your skills
-Try the MDN Test Your Skills exercise at:
-* [MDN OOJS Test your skills](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Test_your_skills:_Object-oriented_JavaScript)
-## Part 3 Convert a constructor function to use the `class` keyword
+## Part 3 Convert code  to use the `class` keyword
 **starter code**
 ```JavaScript
-"use strict";
 /**
  * constructor function for Tree object 
  *
@@ -91,3 +87,6 @@ maple.logTree()
 * create a simple form that takes as input all fields for your tree object, use HTML5 as needed for validation.
 * You will have a submit on the form. When it is clicked create an object using the data, `logTree()` function create `treeToDOM()` modify the code to add it to the DOM.
 * Choose whatever element you prefer to add it to the form, an UL + LI or a section + paras etc
+## Part 4 MDN Test your skills
+Try the MDN Test Your Skills exercise at:
+* [MDN OOJS Test your skills](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Test_your_skills:_Object-oriented_JavaScript)
