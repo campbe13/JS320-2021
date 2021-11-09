@@ -2,16 +2,16 @@ The below is from  https://github.com/Asabeneh/30-Days-Of-JavaScript/blob/master
 ## Exercises
 
 ```js
-const countriesAPI = 'https://restcountries.eu/rest/v2/all'
+const countriesAPI = 'https://restcountries.com/v3.1/all'
 const catsAPI = 'https://api.thecatapi.com/v1/breeds'
 ```
 
 ### Exercises: Level 1
-
-1. Read the countries API using fetch and print the name of country, capital, languages, population and area.
+Documentation for the api https://restcountries.com/
+1. Read the countries API using fetch and print the name of country, capital, languages, population and area.  
 
 ### Exercises: Level 2
-
+Documentation for the api https://thecatapi.com/ 
 1. Print out all the cat names in to catNames variable.
 
 ### Exercises: Level 3
