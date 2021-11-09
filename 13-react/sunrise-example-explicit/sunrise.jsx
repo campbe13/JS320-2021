@@ -1,14 +1,81 @@
+"use strict";
 /**
- * Use React to display results from the sunrise/sunset api 
- * read from form for api params
- *
- * @author PMCampbell
+ * using the https://sunrise-sunset.org/api
+ * with input lat & long 
+ * create a url + parms & retrieve 
+ * the sunrise & sunset from the JSON
+ * 
+ * refactor - to use React with 2 components 
+ * the form & the result
+ * 
+ * @author pmcampbell
+ * @version 2020-12
  */
+let globals = {}
+
+// document.addEventListener('DOMContentLoaded', setup)
+// see func call setup at bottom of file
+
+function setup() {
+    // moved to React form component 
+    // document.querySelector('form').addEventListener('submit', getSunInfo);
+    // globals.lat = document.querySelector('#lat')
+    // globals.long = document.querySelector('#long')
+
+    globals.apiURL = "https://api.sunrise-sunset.org/json"
+    globals.result = document.querySelector('#result')
+    // render the form
+    ReactDOM.render(<LatLongForm />, document.querySelector('#form'))
+}
 /**
- * retrieve json from a website & perform action (callback) on it
- *
+ * read the form info & construct the url
+ * then retrieve the data
+ * 
+ * @param {str} latitude from form
+ * @param {str} longitude from form
+ */
+function getSunInfo(lat, long) {
+    // e.preventDefault()
+    let url = constructURL(lat, long);
+    getJSON(url, addPara)
+}
+/**
+ * construct the url with the query params
+ * 
+ * @param {str} lat 
+ * @param {str} long 
+ */
+function constructURL(lat, long) {
+    let url = new URL(globals.apiURL)
+
+    // construct  params  ?lat=99.99&lng=99.99
+    url.searchParams.set("lat", lat)
+    url.searchParams.set("lng", long)
+    console.log(url)
+    return url
+}
+
+/**
+ * given JSOn with  sunrise & sunset in text
+ * put  it  into a new para on the page
+ * 
+ * @param {JSON} jsondata 
+ */
+function addPara(jsondata) {
+    console.log(jsondata)
+    // re render, each time, using props
+    ReactDOM.render(<Sun sunrise={jsondata.results.sunrise} sunset={jsondata.results.sunset} />,
+        globals.result)
+    // removed 
+    // let p = document.createElement('p')
+    // globals.main.appendChild(p)
+    // p.textContent = `sunrise ${jsondata.results.sunrise} UTC sunset ${jsondata.results.sunset} UTC`;
+}
+/**
+ * retrieve json from a website & perform action on it
+ * 
  * @param {string} uri encoded
- * @param {funct to read Json} action
+ * @param {funct to read Json} action 
  */
 function getJSON(uri, action) {
     fetch(uri)
@@ -73,3 +140,4 @@ class Sun extends React.Component {
         );
     }
 }
+setup()
