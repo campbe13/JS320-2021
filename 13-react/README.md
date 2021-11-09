@@ -11,5 +11,5 @@ First make certain you have completed the CI/CD lab from last week.
 * Finaly gradually convert the rest so that you have one component that uses state so ReactDOM.render() once.
 
 This is what I did in my examples, you can use them & the slides to help you:
-* Step 1 [sunrise example](sunrise-example-explicit) uses an explicit re-render every time, inefficient
-* Step 2 [sunrise example](sunrise-example-react)sunrise example uses state to have React re-render when state changes
+* Step 1 [sunrise example 1](sunrise-example-explicit) uses an explicit re-render every time, inefficient
+* Step 2 [sunrise example 2](sunrise-example-react) uses state to have React re-render when state changes
