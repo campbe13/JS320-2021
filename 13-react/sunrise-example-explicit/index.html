@@ -10,19 +10,12 @@
     <!-- Load React. -->
     <script src="https://unpkg.com/react@16/umd/react.development.js" crossorigin></script>
     <script src="https://unpkg.com/react-dom@16/umd/react-dom.development.js" crossorigin></script>
-    <!-- Note: when deploying, replace "development.js" with "production.min.js". 
-      <script crossorigin src="https://unpkg.com/react@17/umd/react.production.min.js"></script>
-      <script crossorigin src="https://unpkg.com/react-dom@17/umd/react-dom.production.min.js"></script>
-      -->
-
     <!--Beware: babel preprocessing in browser is SLLOOOWWWW-->
     <!-- Don't use this in production:  -->
     <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
 
-
     <!-- Load our React component, indicate that it needs to be preprocessed. -->
-
-    <script src=src/sunriseset.jsx type=text/babel></script>
+    <script src=sunriseset.jsx type=text/babel></script>
     <style>
         input:invalid {
             background-color: deeppink;
