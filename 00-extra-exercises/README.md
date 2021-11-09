@@ -2,6 +2,8 @@ If you are looking for exercises other than the ones the teacher assigns to you 
 
 Note I have not assessed them all.
 
+* [Using A RESTApi](restapi-fetch)
+
 * the text for the course has exercises at the end of each chapter https://eloquentjavascript.net/
     - it also has a sandbox with the context for each chapter https://eloquentjavascript.net/code/ 
 * https://exercism.org/tracks/javascript/exercises 
