@@ -25,4 +25,4 @@ For this, you may want to use flex,  have the `<ul>` in a flexbox on the lhs and
 2. Read the countries api and find out the 10 largest countries
 3. Read the countries api and count total number of languages in the world used as official languages
 
-Exercise originally from   https://github.com/Asabeneh/30-Days-Of-JavaScript/blob/master/18_Day_Promises/18_day_promises.md#exercises    you may want to read through the writeup.
+Exercise originally from   https://github.com/Asabeneh/30-Days-Of-JavaScript/blob/master/18_Day_Promises/18_day_promises.md#exercises  
