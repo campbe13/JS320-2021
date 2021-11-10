@@ -16,9 +16,9 @@ For this, you may want to use flex,  have the `<ul>` in a flexbox on the lhs and
 2. Display each breed name on the DOM in a `<li>` which is in a `<ul>` 
 3. Attach an event listener to the `<ul>` 
 4. When the event listener fires 
-  * determine which cat was clicked (which is it you use e.target or e.currentTarget???)
-  * display the image for that cat (use your Map/array entry) for the `<img>` src
-  * add a caption to the image that is clickable, href= the wikipedia URL
+   * determine which cat was clicked (which is it you use e.target or e.currentTarget???)
+   * display the image for that cat (use your Map/array entry) for the `<img>` src
+   * add a caption to the image that is clickable, href= the wikipedia URL
 
 ### Other, optional
 1. Read the cats api and find the average weight of each cat in metric units
