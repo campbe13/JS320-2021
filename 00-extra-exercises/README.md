@@ -1,8 +1,10 @@
 If you are looking for exercises other than the ones the teacher assigns to you the following maybe useful.
 
-Note I have not assessed them all.
+Verified & expanded
 
 * [Using A RESTApi](restapi-fetch)
+
+The below have not been tested by your teacher, but have some interesting exercises, pick and choose
 
 * the text for the course has exercises at the end of each chapter https://eloquentjavascript.net/
     - it also has a sandbox with the context for each chapter https://eloquentjavascript.net/code/ 
