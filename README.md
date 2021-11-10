@@ -83,3 +83,6 @@ I have changed the instructions because you have to use a Gitlab Group, DawsonSt
 ## Lab 12 Week 12
 Topic: Prototypes and Objects in JavaScript
 * [instructions](12-OOJS) using `class` keyword syntax
+
+Topic: Fetch api
+* [more practice using the fetch api](00-extra-exercises/restapi-fetch)  
