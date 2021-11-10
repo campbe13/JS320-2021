@@ -1,6 +1,6 @@
 # Setup a React project (using create-react-app)
 
-It is possible to set up a React project by installing Node.js & create-react-app.  The other install option is using webpack and babel.
+It is possible to set up a React project by installing Node.js & using create-react-app.  The other install option is using webpack and babel.
 
 You can do this in the lab, node.js is installed but you cannot use the H: drive for your destination, it will give you errors
 
