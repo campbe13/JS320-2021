@@ -28,3 +28,12 @@ numbers.filter(number => number%2 === 0 || number%5 === 0);
 numbers.filter(number => number%3 === 0).map(odd => odd*odd);
 //The sum of all even numbers 
 numbers.reduce((accum, curr) => accum + ((curr % 2 === 0) ? curr : 0) , 0)
+```
+## remove an element
+## array of numbers 
+```
+function remove (array, value) {
+    let i = array.indexOf(value)
+    if (i != -1) { array.splice(i) }
+}
+```
