@@ -31,8 +31,9 @@ numbers.filter(number => number%3 === 0).map(odd => odd*odd);
 //The sum of all even numbers 
 numbers.reduce((accum, curr) => accum + ((curr % 2 === 0) ? curr : 0) , 0)
 ```
-## remove an element
 ## array of numbers 
+
+## remove an element
 ```
 function remove (array, value) {
     let i = array.indexOf(value)
