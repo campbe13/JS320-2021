@@ -1,8 +1,9 @@
 If you are looking for exercises other than the ones the teacher assigns to you the following maybe useful.
 
-Verified & expanded
+Verified & expanded  & my own
 
 * [Using A RESTApi](restapi-fetch)
+* [Using Array functions](array-funcs)
 
 The below have not been tested by your teacher, but have some interesting exercises, pick and choose
 
