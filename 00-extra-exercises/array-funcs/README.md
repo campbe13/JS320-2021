@@ -51,7 +51,7 @@ Define a function `remover` that takes an array and one of the values in the arr
 ```
 const nums = [1,2,3,4,5,6,7,8,9,10]
 remove(nums, 2)
-// results in nums [1,2,3,4,5,6,7,8,9,10]
+// results in nums [1,3,4,5,6,7,8,9,10]
 const words = [ "blah", "123", "bleh" ]
 remove(words, "bleh")
 // results in words [ "blah", "123" ]
@@ -59,3 +59,9 @@ remove(words, "bleh")
 Hint: new array with one removed, use Array.indexOf() and Array.splice()
 Maybe: Array.reduce()
 
+Challenge: instead of a single element to remove use the spread syntax for the 2nd parameter and remove all elements in it
+```
+const nums = [1,2,3,4,5,6,7,8,9,10]
+remove(nums, 2,4,6)
+// results in nums [1,3,5,7,8,9,10]
+```
