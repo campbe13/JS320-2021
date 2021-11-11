@@ -15,7 +15,8 @@ Hint: new array with _all_ of the same elements, use Array.map()
 Define a function `shortOnly` that takes an array of strings as an argument and returns a new array with 
 strings less than 5 characters.  
 ```
-const words = ["blah", "javascript", "foundation", "bloat", "coding", "antediluvian", "bugs", "beetles"
+const words = ["blah", "javascript", "foundation", "bloat", "coding", 
+      "antediluvian", "bugs", "beetles"]
 let short = shortOnly(array)
 // results in short ['blah', 'bugs']
 ```
@@ -31,10 +32,18 @@ Starting with an array containing numbers (ex 1 through 10) use filter, map, and
   * new array with a _subset_ use Array.filter()
 * numbers divisible by 2 or 5
   * new array with a _subset_ use Array.filter()
-* divisible by 3 then squared
+* numbers divisible by 3 but squared
   * new array with a _subset_ then all elements modified use Array.filter().map()
 * the sum of all even numbers
   *  new array with a _reduced subset_ use Array.reduce()
+* Write 
 ```
-let nums = [1,2,3,4,5,6,7,8,9,10]
+const nums = [1,2,3,4,5,6,7,8,9,10]
+```
+## array of numbers 
+Define a function `increase` that takes an array of numbers and a multiplier as arguments and returns a new array which contains the original times the multiplier.
+```
+const nums = [1,2,3,4,5,6,7,8,9,10]
+let numstoo = increase(nums, 2)
+// results in numstoo [2,4,6,8,10,12,14,16,18,20]
 ```
