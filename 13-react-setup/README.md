@@ -16,7 +16,15 @@ Open a command prompt and cd to a user directory.  (If you are in the lab, you c
 C:\Users\youruserid> cd C:\Users\youruserid\Documents\JS\
 C:\Users\youruserid\Documents\JS\> npx create-react-app my-app
 ```
-This will create a folder named my-app on the desktop and install all the required files in it.
+
+If this is the first time you are using it npx will ask if you want to install it (this maybe slowish)
+```
+C:\Users\youruserid\Documents\JS> npx create-react-app my-app
+Need to install the following packages:
+  create-react-app
+Ok to proceed? (y) y
+```
+(After the install, if install is needed) It will create a folder named my-app on the desktop and install all the required files in it.
 
 Step 3 -  look around
 
