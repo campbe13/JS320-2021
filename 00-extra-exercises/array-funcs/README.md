@@ -16,6 +16,8 @@ Define a function `shortOnly` that takes an array of strings as an argument and 
 strings less than 5 characters.  
 ```
 const words = ["blah", "javascript", "foundation", "bloat", "coding", "antediluvian", "bugs", "beetles"
+let short = shortOnly(array)
+// results in short ['blah', 'bugs']
 ```
 Hint: new array with a _subset_ of the elements, use Array.filter()
 Optional: Use `arguments` instead of defining a parameter (so you can give it multiple arrays as arguments)
@@ -23,3 +25,16 @@ Optional: Use `arguments` instead of defining a parameter (so you can give it mu
 for future use
 https://www.npmjs.com/package/an-array-of-english-words  
 -->
+## array of numbers - various
+Starting with an array containing numbers (ex 1 through 10) use filter, map, and reduce to produce the following from it
+* odd numbers only
+  * new array with a _subset_ use Array.filter()
+* numbers divisible by 2 or 5
+  * new array with a _subset_ use Array.filter()
+* divisible by 3 then squared
+  * new array with a _subset_ then all elements modified use Array.filter().map()
+* the sum of all even numbers
+  *  new array with a _reduced subset_ use Array.reduce()
+```
+let nums = [1,2,3,4,5,6,7,8,9,10]
+```
