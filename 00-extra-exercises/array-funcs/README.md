@@ -50,13 +50,13 @@ let numstoo = increase(nums, 2)
 Define a function `remover` that takes an array and one of the values in the array as arguments.  It returns a new array which has the value removed from the array.
 ```
 const nums = [1,2,3,4,5,6,7,8,9,10]
-remove(nums, 2)
+remover(nums, 2)
 // results in nums [1,3,4,5,6,7,8,9,10]
 const words = [ "blah", "123", "bleh" ]
-remove(words, "bleh")
+remover(words, "bleh")
 // results in words [ "blah", "123" ]
 ```
-Hint: new array with one removed, use Array.indexOf() and Array.splice()
+Hint: new array with one removed, use Array.indexOf() and Array.splice()<br>
 Maybe: Array.reduce()
 
 Challenge: instead of a single element to remove use the spread syntax for the 2nd parameter and remove all elements in it
