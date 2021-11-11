@@ -20,8 +20,8 @@ const words = ["blah", "javascript", "foundation", "bloat", "coding",
 let short = shortOnly(array)
 // results in short ['blah', 'bugs']
 ```
-Hint: new array with a _subset_ of the elements, use Array.filter()
-Optional: Use `arguments` instead of defining a parameter (so you can give it multiple arrays as arguments)
+Hint: new array with a _subset_ of the elements, use Array.filter()<br>
+Challenge: Use `arguments` instead of defining a parameter (so you can give it multiple arrays as arguments)
 <!-- 
 for future use
 https://www.npmjs.com/package/an-array-of-english-words  
