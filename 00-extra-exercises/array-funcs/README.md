@@ -36,7 +36,6 @@ Starting with an array containing numbers (ex 1 through 10) use filter, map, and
   * new array with a _subset_ then all elements modified use Array.filter().map()
 * the sum of all even numbers
   *  new array with a _reduced subset_ use Array.reduce()
-* Write 
 ```
 const nums = [1,2,3,4,5,6,7,8,9,10]
 ```
@@ -47,3 +46,14 @@ const nums = [1,2,3,4,5,6,7,8,9,10]
 let numstoo = increase(nums, 2)
 // results in numstoo [2,4,6,8,10,12,14,16,18,20]
 ```
+## remove an element
+Define a function `remover` that takes an array and one of the values in the array as arguments.  It returns a new array which has the value removed from the array.
+```
+const nums = [1,2,3,4,5,6,7,8,9,10]
+let numstooo = remove(nums, 2)
+// results in numstooo [1,2,3,4,5,6,7,8,9,10]
+const words = [ "blah", "123", "bleh" ]
+let wordstooo = remove(words, "bleh")
+```
+Hint: new array with one removed, use Array.indexOf() and Array.splice()
+
