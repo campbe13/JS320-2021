@@ -4,7 +4,7 @@ It is possible to set up a React project by installing Node.js & using create-re
 
 You can do this in the lab, node.js is installed but you cannot use the H: drive for your destination, it will give you errors
 
-Step 1 - install Node.js 
+Step 1 - install Node.js --- onetime and skip if you are in Dawson labs, it's installed.
 
 * https://nodejs.org/en/download/ 
 
