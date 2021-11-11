@@ -4,6 +4,8 @@ It is possible to set up a React project by installing Node.js & using create-re
 
 You can do this in the lab, node.js is installed but you cannot use the H: drive for your destination, it will give you errors
 
+Step 1 - install Node.js 
+* https://nodejs.org/en/download/ 
 Step 1 - use create-react-app
 
 Open a command prompt and cd to a user directory.  (If you are in the lab, you cannot use `H:`)
@@ -27,5 +29,12 @@ Run the project using the start command.  It should open a browser where you wil
 C:\Users\youruserid\Documents\JS\my-app\> npm start
 ```
 ![image](https://user-images.githubusercontent.com/1751207/141199339-94c3c29a-7f4f-41c3-a3c6-eb197c752834.png)
+
+Step 4 -  save it 
+If you make changes to the code you will want to save it.  You will notice there is a `.git` directory already (the product of `git init`) so you need to
+1. create a repo through your git server web interface
+1. add it as a remote `git remote add origin <your repo URI>`
+2. verify it `git remote -v`
+3. then you can add/commit/push etc
 
 Note: if you are running in the lab you must backup your data to keep it, the C: drive will be wiped on reboot.
