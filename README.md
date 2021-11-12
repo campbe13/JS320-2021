@@ -84,5 +84,7 @@ I have changed the instructions because you have to use a Gitlab Group, DawsonSt
 Topic: Prototypes and Objects in JavaScript
 * [instructions](12-OOJS) using `class` keyword syntax
 
-Topic: Fetch api
+Topic: extra practice exercises
 * [more practice using the fetch api](00-extra-exercises/restapi-fetch)  
+* [more practice array functions](00-extra-exercises/array-funcs)    Added 2021-11-12
+
