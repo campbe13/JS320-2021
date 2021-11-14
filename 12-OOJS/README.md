@@ -25,6 +25,8 @@ Modify it such that the bio method uses an appropriate pronoun based on the gend
 
 Create a `Bicycle` subclass that extends the `Vehicle` class. The `Bicycle` subclass should override Vehicle's constructor function by changing the default values for `wheels` from `4` to `2` and `horn` from `'beep beep'` to `'honk honk'`.
 
+Add a setter to change the colour.
+
 **starter code**
 ```javascript
 class Vehicle {
