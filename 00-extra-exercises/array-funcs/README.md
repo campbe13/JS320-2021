@@ -72,3 +72,15 @@ const nums = [6,7,8,9,10]
 reverser(nums, 2,4,6)
 // returns  [10,9,8,7,6]
 ```
+## in class  
+Write a function
+```
+function sumif(array, callback)  {
+    // sums elements where the call back is true, returns the sum
+    // bonus, code using reduce function  
+}
+```
+## in class  
+Write a function  that creates  a new array from  an existing, removing all unnecessary elements, like false, undefined, empty strings, zero, null  
+
+Hint:  false, undefined etc are `falsy`
