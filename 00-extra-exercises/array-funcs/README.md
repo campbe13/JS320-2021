@@ -65,3 +65,10 @@ const nums = [1,2,3,4,5,6,7,8,9,10]
 remover(nums, 2,4,6)
 // results in nums [1,3,5,7,8,9,10]
 ```
+## reverse an array
+Define a function `reverser` that takes an array.  It returns a new array which is the original, reversed
+```
+const nums = [6,7,8,9,10]
+reverser(nums, 2,4,6)
+// returns  [10,9,8,7,6]
+```
