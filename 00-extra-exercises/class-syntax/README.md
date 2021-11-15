@@ -1,7 +1,7 @@
 # Using class syntax 
 
 ## Create a class Muppets
-Create  a class Muppets  with fields name (string in object {first, last} ) and materials (array) author, 
+Create  a class Muppets  with fields name (string in object {first, last} ) and materials (array) 
 * Use a constructor
 * Add a method greeting  that uses alert() and pops up “hello from `<muppet name>`”
 * Add a setter to add an element to material array (push/unshift) 
