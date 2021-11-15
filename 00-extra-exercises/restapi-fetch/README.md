@@ -26,6 +26,11 @@ For this, you may want to use flex,  have the `<ul>` in a flexbox on the lhs and
 3. Read the countries api and count total number of languages in the world used as official languages
 
 Exercise originally from   https://github.com/Asabeneh/30-Days-Of-JavaScript/blob/master/18_Day_Promises/18_day_promises.md#exercises  
+### Level 3 optional
+Documentation for the api https://restcountries.com/
+1. choose 10 countries for a dropdown or radio button menu in a form or button
+1. Read the countries API; construct a URI to retrieve individual countries from the form/button input using fetch 
+2. Display some information about the country (choose  5 items form the object), display them in the DOM
 
 ### in class exercise
 Doughnut RESTful api
