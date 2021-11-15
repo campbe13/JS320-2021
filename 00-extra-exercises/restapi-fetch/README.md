@@ -26,3 +26,19 @@ For this, you may want to use flex,  have the `<ul>` in a flexbox on the lhs and
 3. Read the countries api and count total number of languages in the world used as official languages
 
 Exercise originally from   https://github.com/Asabeneh/30-Days-Of-JavaScript/blob/master/18_Day_Promises/18_day_promises.md#exercises  
+
+### in class
+Doughnut RESTful api
+Given the url https://doughnut.ca the search param `doughnut=sprinkler`  & the below example response write a method to retrieve the data 
+* Use the URL class
+* Use setparams methods
+* Use fetc() and any necessary chained methods.
+* Using the response iterate through & log the toppings
+```JS
+{
+"name": “fancy”, 
+"price": 1.55, 
+"toppings": ["sprinkles", "vanilla icing", "chocolate chips"],    
+"type": "yeast dough"
+}
+```
