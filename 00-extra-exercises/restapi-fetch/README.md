@@ -27,7 +27,7 @@ For this, you may want to use flex,  have the `<ul>` in a flexbox on the lhs and
 
 Exercise originally from   https://github.com/Asabeneh/30-Days-Of-JavaScript/blob/master/18_Day_Promises/18_day_promises.md#exercises  
 
-### in class
+### in class exercise
 Doughnut RESTful api
 Given the url https://doughnut.ca the search param `doughnut=sprinkler`  & the below example response write a method to retrieve the data 
 * Use the URL class
