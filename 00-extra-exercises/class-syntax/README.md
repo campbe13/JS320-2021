@@ -13,3 +13,6 @@ Test it
 2. test the greeting method
 3. test the setter, use the log method to test the result
 4. test the getter
+
+Optional:
+use spread syntax in the constructor for materials  add as many/few as there are in the arguments given.
