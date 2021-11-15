@@ -6,7 +6,7 @@ const catsAPI = 'https://api.thecatapi.com/v1/breeds'
 
 ### Level 1
 Documentation for the api https://restcountries.com/
-1. Read the countries API using fetch and log the name the name of each country, capital, languages, population and area.  
+1. Read the countries API; retrieve all countries,  using fetch and log the name the name of each country, capital, languages, population and area.     
 2. Put the the name of each country, capital, languages, population and area onto the DOM, elements of your choice.
 
 ### Level 2
