@@ -4,6 +4,8 @@ Verified & expanded  & my own
 
 * [Using A RESTApi](restapi-fetch)
 * [Using Array functions](array-funcs)
+* [Using class syntax](class-syntax)
+
 
 The below have not been tested by your teacher, but have some interesting exercises, pick and choose
 
