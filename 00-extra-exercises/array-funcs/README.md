@@ -66,12 +66,13 @@ remover(nums, 2,4,6)
 // results in nums [1,3,5,7,8,9,10]
 ```
 ## reverse an array
-Define a function `reverser` that takes an array.  It returns a new array which is the original, reversed
+Define a function `reverser` that takes an array.  It returns a new array which is the original, reversed. 
 ```
 const nums = [6,7,8,9,10]
-reverser(nums, 2,4,6)
+reverser(nums)
 // returns  [10,9,8,7,6]
 ```
+Note this is a diy don't use Array.reverse() function, but feel free to look it up.
 ## in class  
 Write a function
 ```
