@@ -84,4 +84,4 @@ function sumif(array, callback)  {
 ## in class  
 Write a function  that creates  a new array from  an existing, removing all unnecessary elements, like false, undefined, empty strings, zero, null  
 
-Hint:  false, undefined etc are `falsy`
+Hint:  false, undefined etc are [`falsy`](https://developer.mozilla.org/en-US/docs/Glossary/Falsy)
