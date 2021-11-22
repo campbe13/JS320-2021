@@ -1,0 +1,255 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Category 1 - Coding - Computer Science",
+      "author": "admin",
+      "nberTopics": 2,
+      "topicList": [
+        {
+          "id": 1,
+          "topic_title": "The Number One Reason You Should (Do) Coding using REactJS",
+          "nberPost": 5,
+          "status": "ongoing",
+          "listPosts": [
+            {
+              "id": 1,
+              "topic_id": "cat1_topic1_post1",
+              "parentId": "topic1",
+              "author": "nasr",
+              "date": "2021-11-10 12:10",
+              "text": "Are You Making These Coding using REactJS Mistakes?",
+              "rate": 2.1,
+              "like": 0,
+              "replies": 10
+            },
+            {
+              "id": 2,
+              "topic_id": "cat1_topic1_post1",
+              "parentId": "topic1",
+              "author": "badr",
+              "date": "2021-11-14 12:30",
+              "text": "This is a post TWO topic- SuperEasy Ways To Learn Everything About Coding using REactJS",
+              "rate": 2.1,
+              "likes": 0,
+              "replies": 5
+            },
+            {
+              "id": 3,
+              "topic_id": "cat1_topic1_post1",
+              "parentId": "topic1",
+              "author": "tricia",
+              "date": "2022-10-16 12:30",
+              "text": "This is a post 3- The Lazy Way To Coding using REactJS",
+              "rate": 4.1,
+              "likes": 22,
+              "replies": 20
+            },
+            {
+              "id": 4,
+              "topic_id": "cat1_topic1_post1",
+              "parentId": "topic1",
+              "author": "dan",
+              "date": "2018-12-09 11:30",
+              "text": "This is a post 4 - Coding using REactJS Expert Interview",
+              "rate": 3.1,
+              "likes": 10,
+              "replies": 15
+            },
+            {
+              "id": 5,
+              "topic_id": "cat1_topic1_post1",
+              "parentId": "topic1",
+              "author": "tricia",
+              "date": "2022-05-11 12:30",
+              "text": "This is a post 5-Brilliant Ways To Use Coding using REactJS",
+              "rate": 4.1,
+              "likes": 22,
+              "replies": 20
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "topic_title": "Simple Steps To An Effective CI/CD GitLab Strategy",
+          "nberPost": 2,
+          "status": "ongoing",
+          "listPosts": [
+            {
+              "id": 1,
+              "topic_id": "cat1_topic1_post1",
+              "parentId": "topic2",
+              "author": "tricia",
+              "date": "2022-09-18 12:30",
+              "text": "This is a post 6- Apply These 5 Secret Techniques To Improve CI/CD GitLab",
+              "rate": 4.1,
+              "likes": 22,
+              "replies": 20
+            },
+            {
+              "id": 2,
+              "topic_id": "cat1_topic1_post1",
+              "parentId": "topic2",
+              "author": "badr",
+              "date": "2022-02-07 12:307777",
+              "text": "This is a post 7 - Are You Making These CI/CD GitLab Mistakes?",
+              "rate": 4.1,
+              "likes": 22,
+              "replies": 20
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Category 2 - Project Management ",
+      "author": "admin",
+      "nberTopics": 2,
+      "topicList": [
+        {
+          "id": 1,
+          "topic_title": "Time management",
+          "nberPost": 3,
+          "status": "ongoing",
+          "listPosts": [
+            {
+              "id": 1,
+              "topic_id": "cat1_topic1_post1",
+              "parentId": "topic1",
+              "author": "nasr",
+              "date": "2021-11-16 12:10",
+              "text": "post 8 -Who Else Wants To Know The Mystery Behind Time Management? ",
+              "rate": 2.1,
+              "like": 0,
+              "replies": 10
+            },
+            {
+              "id": 2,
+              "topic_id": "cat1_topic1_post1",
+              "parentId": "topic1",
+              "author": "badr",
+              "date": "2021-11-12 12:30",
+              "text": "15 Tips For Time Management Success - post 9",
+              "rate": 2.1,
+              "likes": 0,
+              "replies": 5
+            },
+            {
+              "id": 3,
+              "topic_id": "cat1_topic1_post1",
+              "parentId": "topic1",
+              "author": "tricia",
+              "date": "2022-04-13 12:30",
+              "text": "How To Become Better With Time Management In 10 Minutes - post 10",
+              "rate": 4.1,
+              "likes": 22,
+              "replies": 20
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Category 3 - Communication ",
+      "author": "admin",
+      "nberTopics": 2,
+      "topicList": [
+        {
+          "id": 1,
+          "topic_title": "Communication Skills",
+          "nberPost": 2,
+          "status": "ongoing",
+          "listPosts": [
+            {
+              "id": 1,
+              "topic_id": "cat3_topic1_post1",
+              "parentId": "topic1",
+              "author": "nasr",
+              "date": "2021-11-16 12:10",
+              "text": "post  - At Last, The Secret To communication skills Is Revealed",
+              "rate": 2.1,
+              "like": 0,
+              "replies": 10
+            },
+            {
+              "id": 2,
+              "topic_id": "cat3_topic1_post1",
+              "parentId": "topic1",
+              "author": "badr",
+              "date": "2021-11-12 12:30",
+              "text": "5 Brilliant Ways To Teach Your Audience About communication skills",
+              "rate": 2.1,
+              "likes": 0,
+              "replies": 5
+            },
+            {
+              "id": 3,
+              "topic_id": "cat3_topic1_post1",
+              "parentId": "topic1",
+              "author": "tricia",
+              "date": "2022-04-13 12:30",
+              "text": "How To Become Better product presenter With communication skills - ",
+              "rate": 4.1,
+              "likes": 22,
+              "replies": 20
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "topic_title": "Inter-personal communication",
+          "nberPost": 4,
+          "status": "ongoing",
+          "listPosts": [
+            {
+              "id": 1,
+              "topic_id": "cat3_topic2_post1",
+              "parentId": "topic2",
+              "author": "dan",
+              "date": "2022-07-23 12:30",
+              "text": "This is a post - Verbal communication is necessary but not sufficent for better communication !",
+              "rate": 4.1,
+              "likes": 22,
+              "replies": 20
+            },
+            {
+              "id": 2,
+              "topic_id": "cat3_topic2_post2",
+              "parentId": "topic2",
+              "author": "badr",
+              "date": "2022-10-16 12:30",
+              "text": "This is a post -Top 10 Tips To body language -  Resource management for some topic  for some topic",
+              "rate": 4.1,
+              "likes": 22,
+              "replies": 20
+            },
+            {
+              "id": 3,
+              "topic_id": "cat3_topic2_post1",
+              "parentId": "topic2",
+              "author": "dan",
+              "date": "2018-12-16 11:30",
+              "text": "This is a post  - Are You Communication effectively ?",
+              "rate": 3.1,
+              "likes": 10,
+              "replies": 15
+            },
+            {
+              "id": 4,
+              "topic_id": "cat3_topic2_post1",
+              "parentId": "topic2",
+              "author": "tricia",
+              "date": "2022-07-23 12:30",
+              "text": "Avoiding and Solving problems starts wuith effective communication",
+              "rate": 4.1,
+              "likes": 22,
+              "replies": 20
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
