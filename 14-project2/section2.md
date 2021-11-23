@@ -1,5 +1,5 @@
-## Groups for Section 2
-### Team 1
+## Groups for Section 2 M & Wed
+### Team 1 
 * Hong Minh	Vu	1	hong.vu@dawsoncollege.qc.ca
 * Xuanru	Yang	1	xuanru.yang@dawsoncollege.qc.ca
 * Michael	Obadia	1	michael.obadia@dawsoncollege.qc.ca
