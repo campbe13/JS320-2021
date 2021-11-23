@@ -13,6 +13,10 @@ This project is to be done in teams of 2-3 assigned by the teacher, see groups
   * React [demo Comment component](https://korra.dawsoncollege.qc.ca/~tricia/js/13-demo-comment/)
   * React [state etc](https://korra.dawsoncollege.qc.ca/~tricia/js/13-react-plus/)
   * React [intro](https://korra.dawsoncollege.qc.ca/~tricia/js/13-react-intro/)
+### Helpful, Install 
+* [React Developer tools for Firefox](https://addons.mozilla.org/en-US/firefox/addon/react-devtools/) 
+* [React Developer tools for Chrome](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
+
 ### Groups
 * [section 2 - MW](section2.md)
 * [section 3 - TTh](section3.md)
