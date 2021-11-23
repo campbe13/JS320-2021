@@ -1,5 +1,6 @@
 ## Create a fake forum app
 ### Instructions
+This project is to be done in teams of 2-3 assigned by the teacher, see groups
 * [Project 2 Instructions](https://docs.google.com/document/d/1bwRnob3cbLXVNpgw6I5vl6Fn6SXFwgQycNsfZ0WN2v4/edit?usp=sharing)
 * [starter code](react-starter.zip)
 * [file forum.json](react-starter/data/forum.json)
@@ -10,6 +11,9 @@
   * React [demo Comment component](https://korra.dawsoncollege.qc.ca/~tricia/js/13-demo-comment/)
   * React [state etc](https://korra.dawsoncollege.qc.ca/~tricia/js/13-react-plus/)
   * React [intro](https://korra.dawsoncollege.qc.ca/~tricia/js/13-react-intro/)
+### Groups
+* [section 2 - MW](section2.md)
+* [section 3 - TTh](section3.md)
 ### References
 * https://reactjs.org/docs/components-and-props.html
 * https://reactjs.org/docs/state-and-lifecycle.html
