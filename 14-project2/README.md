@@ -7,12 +7,12 @@ This project is to be done in teams of 2-3 assigned by the teacher, see groups
 * [file forum.json](react-starter/data/forum.json)
 * [formatted forum.json](https://jsoneditoronline.org/#left=cloud.191c8976e34b487fa94c2ce2c3b95e6e)  click on ![image](https://user-images.githubusercontent.com/1751207/142936146-55cd7a07-4030-4f8e-bcd9-16738b2069ec.png)
  to see it formatted
-* [submit gitlab URIs](https://forms.gle/532qTru6uy3ZfR2o9)
 * korra
   * [example reading JSON](https://korra.dawsoncollege.qc.ca/~tricia/js/09-promises/read-json/)
   * React [demo Comment component](https://korra.dawsoncollege.qc.ca/~tricia/js/13-demo-comment/)
   * React [state etc](https://korra.dawsoncollege.qc.ca/~tricia/js/13-react-plus/)
   * React [intro](https://korra.dawsoncollege.qc.ca/~tricia/js/13-react-intro/)
+### [submit gitlab URIs](https://forms.gle/532qTru6uy3ZfR2o9)
 ### Helpful, Install  [React Developer tools for browser](https://reactjs.org/blog/2015/09/02/new-react-developer-tools.html#installation)
 * [React Developer tools for Firefox](https://addons.mozilla.org/en-US/firefox/addon/react-devtools/) 
 * [React Developer tools for Chrome](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
