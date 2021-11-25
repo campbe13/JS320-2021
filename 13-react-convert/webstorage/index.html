@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>JavaScript JSON!</title>
+    <script defer src=webstore.js></script>
+</head>
+<!-- 
+do not use embedded styles, I am doing it for pedagogical reasons
+so you can focus on the code instead of some complex css
+also my design skills are negligible ¯\_(ツ)_/¯
+-->
+<style>
+    input:invalid {
+            background-color:deeppink ;
+    }
+</style>
+
+<body>
+
+<h2>Look at the source, this is an example of  saving JSON data to webstorage</h2>     
+
+<form>
+	<fieldset id="muppet">
+	<legend>Tell me your favourite puppet?</legend>
+	<label for="name">Muppet Name</label>
+	<input id="name" type="text" pattern="^[a-z][a-z\s]+$" name="name" required/>
+	</fieldset>
+	<fieldset id='tf'>
+	<legend>Are they a muppet?</legend>
+	<input type="radio" id="true" name="muppettf" value=true checked>
+	<label for="true">True</label>
+	<input type="radio" id="false" name="muppettf" value=false>
+	<label for="false">False</label>
+	</fieldset>
+	<!--HTML5 validation only triggered on the submit
+	<input type="submit" id="submit" value="Save Puppet input"></input>
+	-->
+	<!-- HTML5 validation depends on what event we listen for   -->
+	<button type="submit">Save Puppet</button>
+</form>
+	<button id='clear' type="click">For testing: clear webstorage</button>
+<section id=puppetshere>
+	<!-- put puppet info here --> 
+</section>
+</body>
+
+</html>
