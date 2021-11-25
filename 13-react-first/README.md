@@ -1,4 +1,4 @@
-# React 
+# React  - not used 2021
 
 This is a simple exercise to use React in plain old JavaScript 
 
