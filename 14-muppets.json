@@ -1,0 +1,41 @@
+{
+  "muppets": [
+    {
+      "name": "Fozzie",
+      "skills": [
+        "comedy",
+        "juggling"
+      ],
+      "personal": {
+        "age": 12,
+        "height_m": 1.5,
+        "material": "cotton"
+      }
+    },
+    {
+      "name": "Kermit",
+      "skills": [
+        "mc",
+        "singing"
+      ],
+      "personal": {
+        "age": 5,
+        "height_m": 0.5,
+        "material": "rubber"
+      }
+    },
+    {
+      "name": "Gonzo",
+      "skills": [
+        "stunts",
+        "alien stuff",
+        "being blue"
+      ],
+      "personal": {
+        "age": 15,
+        "height_m": 1,
+        "material": "silk"
+      }
+    }
+  ]
+}
