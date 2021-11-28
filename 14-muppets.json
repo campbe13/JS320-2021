@@ -3,8 +3,8 @@
     {
       "name": "Fozzie",
       "skills": [
-        "comedy",
-        "juggling"
+        "a": "comedy",
+        "b" : "juggling"
       ],
       "personal": {
         "age": 12,
