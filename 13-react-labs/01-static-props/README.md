@@ -24,3 +24,5 @@ items use the component to render another shopping list
 1. copy the component `class ShoppingList2 extends React.Component`
 2. modify it to use the list
 `<ShoppingList name="Gonzo" shopping=['glitter', 'cat food', 'prunes']/>`
+
+[teacher's solution](https://codepen.io/TriciaProf/pen/bGobMwp)
