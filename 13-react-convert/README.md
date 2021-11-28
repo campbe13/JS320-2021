@@ -5,7 +5,7 @@
 This lab is to convert an existing POJS form example to React 
 The html & code is in [webstorage](webstorage)
 
-it's running here [korra](ihttps://korra.dawsoncollege.qc.ca/~tricia/js/webstorage/02-demo-input-JSON-webstore-localStorage/JSON.html)
+it's running here on [korra](https://korra.dawsoncollege.qc.ca/~tricia/js/webstorage/02-demo-input-JSON-webstore-localStorage/JSON.html)
 
 It uses web storage, but ignore that  until the last step
 
