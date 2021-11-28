@@ -18,3 +18,9 @@ Once the preceding is working, use the component to render another shopping list
 1. create a new div element 
 2. add it as a child to the existing div
 3. Render a new shopping list on it with your name as the prop
+
+Once the preceding is working, change or duplicate the component add another prop to pass in an array of items to go on the shopping list `shopping=myarray`
+items use the component to render another shopping list
+1. copy the component `class ShoppingList2 extends React.Component`
+2. modify it to use the list
+`<ShoppingList name="Gonzo" shopping=['glitter', 'cat food', 'prunes']/>`
