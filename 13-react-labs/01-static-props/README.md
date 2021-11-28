@@ -13,3 +13,8 @@ Add javascript
 `<Shoppinglist name="Rowlf"/>`
 
 [teacher's solution](https://codepen.io/TriciaProf/pen/vYXEvEY)
+
+Once the preceding is working, use the component to render another shopping list
+1. create a new div element 
+2. add it as a child to the existing div
+3. Render a new shopping list on it with your name as the prop
