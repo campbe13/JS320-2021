@@ -1,7 +1,6 @@
 # Convert static HTML to a React component
-Your boss wants to reuse the shopping list  as a React component. 
+Your boss wants to reuse an html shopping list  as a React component. 
 Take a copy of the  the code here [index.html](index.html) you are going to convert it.
-
 
 Add javascript
 1. in the html replace everything in the body with `<div id="here"></div>`
