@@ -8,9 +8,9 @@ Add javascript
     1. define a React component for the shopping list, ex  `class ShoppingList extends React.Component {`
     1. render the component on the here div
     1. once the component renders properly change `Rowlf` from static to being passed in via props, ex `<Shoppinglist name="Rowlf"/>`
-
+<!--
 [teacher's solution](https://codepen.io/TriciaProf/pen/vYXEvEY)
-
+-->
 Once the preceding is working, use the component to render another shopping list
 1. create a new div element 
 2. add it as a child to the existing div
@@ -20,6 +20,7 @@ Once the preceding is working, change or duplicate the component add another pro
 items use the component to render another shopping list
 1. copy the component `class ShoppingList2 extends React.Component`
 2. modify it to use the list
-`<ShoppingList name="Gonzo" shopping=['glitter', 'cat food', 'prunes']/>`
-
+`<ShoppingList2 name="Gonzo" shopping=['glitter', 'cat food', 'prunes']/>`
+<!--
 [teacher's solution](https://codepen.io/TriciaProf/pen/bGobMwp)
+-->
