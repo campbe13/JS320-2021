@@ -12,4 +12,4 @@ It uses web storage, but ignore that  until the last step
 1. when the data logs properly update the React component or a separate component to display it 
 1. when the data is displayed properly add the storage functions
 
-This code [sunrise/set on korra](https://korra.dawsoncollege.qc.ca/~tricia/js/13-react-plus/03-form-react-sunrise-use-state/)  does something similar
+This code [sunrise/set on korra](https://korra.dawsoncollege.qc.ca/~tricia/js/13-react-plus/03-form-react-sunrise-use-state/)  does something similar (form & api data rendered in a React component)
