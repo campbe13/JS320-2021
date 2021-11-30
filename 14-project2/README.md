@@ -9,7 +9,7 @@ This project is to be done in teams of 2-3 assigned by the teacher, see groups
  to see it formatted
 * korra
   * [example reading JSON](https://korra.dawsoncollege.qc.ca/~tricia/js/09-promises/read-json/)
-  * [example reading JSON + React](https://github.com/campbe13/JS320-2021/tree/master/14-project2)
+  * [example reading JSON + React](https://korra.dawsoncollege.qc.ca/~tricia/js/15-demo-json-to-cards/)
   * React [demo Comment component](https://korra.dawsoncollege.qc.ca/~tricia/js/13-demo-comment/)
   * React [state etc](https://korra.dawsoncollege.qc.ca/~tricia/js/13-react-plus/)
   * React [intro](https://korra.dawsoncollege.qc.ca/~tricia/js/13-react-intro/)
